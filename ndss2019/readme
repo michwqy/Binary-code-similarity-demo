@@ -1,0 +1,8 @@
+## 1、依赖项
+genism 
+NLTK 
+Scikit-learn 
+Tensorflow 
+Keras (version ≤ 2.1.4)
+2、 如果Keras是新版本的话会报一个大致意思为Merge方法不存在的错误，是由于新版本的Keras修改了API。换成旧版本的Keras就可以了。
+3、test.py用于word2vec,smodel.py用于实际神经网络。word2vec训练一次1s不到，LSTM训练一次大概4分钟。我设置成了100次和50次。
