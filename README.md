@@ -1,1 +1,1 @@
-Personal implementation of the paper *Personal implementation of the thesis， NDSS2019*, and application to IoT firmware
+Personal implementation of the paper *Neural Machine Translation Inspired Binary Code Similarity Comparison beyond Function Pairs, NDSS2019*, and application to IoT firmware.
